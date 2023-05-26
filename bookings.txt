@@ -1,0 +1,10 @@
+020|tarun|continental gt|987654321|M|tarun@gmail.com|BANGALORE|LALBAGH
+7220|gagan|contiental gt|987654321|M|gagan@gmail.com|BANGALORE|8th mile
+14520|harsha|Dominor 400|987654321|M|harsha@gmail.com|BANGALORE|sunkad
+21720|pawan|continental gt|54545|m|pawanb|benagaluru|sunkadkatte
+28320|ullas|mt-15|987654321|M|ullas@gmail.com|BANGALORE|kengeri
+34820|ambika|himalayan|548787|F|ambika@gmail.com|BANGALORE|basaveshwaranagar
+42620|fedfd|ff|fff|ff|dfasdfsadsadsadsadsds|fdffff|erewrer|$
+48820|ashwin|Interceptor|6366617340|M|ashwin@gmail.com|Bangalore|chikkabanavra|$
+57020|pranam|continental gt|6366617340|M|pranam@gmail.com|Bangalore|balagunte|$
+65120|ananya|continental gt|6366617340|F|ananya@gmail.com|Bangalore|balagunte|$

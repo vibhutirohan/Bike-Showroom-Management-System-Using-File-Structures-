@@ -1,0 +1,17 @@
+Royal Enfield|Himalayan|2.80LAKHS EX|3.20LAKHS ONROAD| Gravel Grey|Instock|ABS|411 CC|30 KMPL|15L|#
+Royal Enfield|Himalayan|2.80LAKHS EX|3.40LAKHS ONROAD|Rock Red|Instock|ABS|411 CC|30 KMPL|15L|#
+Royal Enfield|Himalayan|2.80LAKHS EX|3.15LAKHS ONROAD|Lake Blue|Out Of Stock|NON-ABS|411 CC|30 KMPL|15L|#
+Royal Enfield|Himalayan|2.80LAKHS EX|3.2LAKHS ONROAD|Snow White|Out of Stock|ABS|411 CC|30 KMPL|15L|#
+Royal Enfield|Meteor 350|2.0LAKHS EX|2.45LAKHS ONROAD|Fireball Red|InStock|ABS|350 CC|35 KMPL|15L|#
+Royal Enfield|Meteor 350|2.0LAKHS EX|2.60LAKHS ONROAD|Stellar Black|InStock|ABS|350 CC|35 KMPL|15L|#
+Royal Enfield|Meteor 350|2LAKHS EX|2.60LAKHS ONROAD|Stellar Blue|Out of Stock|ABS|350 CC|35 KMPL|15L|#
+Royal Enfield|Meteor 350|2LAKHS EX|2.45LAKHS ONROAD|Supernova Brown|Out of Stock|ABS|350 CC|35 KMPL|15L|#
+Royal Enfield|Classic 350|2LAKHS EX|2.45LAKHS ONROAD|GunMetal Grey|InStock|ABS|350 CC|35 KMPL|13.5L|#
+Royal Enfield|Classic 350|2LAKHS EX|2.45LAKHS ONROAD|Stromrider Sand|InStock|ABS|350 CC|35 KMPL|13.5L|#
+Royal Enfield|Classic 350|2LAKHS EX|2.45LAKHS ONROAD|Red|Out of Stock|Non-ABS|350 CC|35 KMPL|13.5L|#
+aaaa|aaaaaaaaa|aaaaaaaaa|aaaaaaaaaaaaaa|aaaaaaaaa|aaaaaaaaaa|aaaaaaaaa|aaaaaaaa|aaaaaaaa|aaaaaaaa|#
+bb|bbbbbbb|bbbbbbbbbb|bbbbbb|bbbbbbb|bbbbbb|bbbbbbb|bbbbbbb|bbbbbbb|bbbbbbb|#
+scszcxzc|xzcxzcxz|cxzczxc|zxcxzcxz|xzc|c|xcx|cxz|cxc|cxc|#
+jawa|perak|2.09|2.60|black|Instock|abs|330cc|35kmph|13l|#
+dsdsdsdd|dss|www|wwwww|ww|wwwww|ww|www|ww|ww|#
+aaaa|cxczx|xzczxczx|aaa|xcxz|aa|xcxz|bengaluru|ccc|bengaluru|#
