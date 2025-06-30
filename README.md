@@ -1,6 +1,7 @@
 # 🏍️ Bike Showroom Management System Using File Structures
 
-![Bike Banner](https://www.pexels.com/photo/sports-bike-rider-in-action-1119796/)
+![Bike Banner](https://images.pexels.com/photos/2765283/pexels-photo-2765283.jpeg?auto=compress&fit=crop&w=1050&q=80)
+
 
 ---
 
