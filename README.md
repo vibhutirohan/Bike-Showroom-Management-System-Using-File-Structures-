@@ -1,9 +1,5 @@
 # 🏍️ Bike Showroom Management System Using File Structures
 
-<p align="center">
-  <img src="https://media.giphy.com/media/TL6nD4C7D8lIk/giphy.gif" alt="Bike Animation" width="320"/>
-</p>
-
 
 ## 🚦 Project Overview
 
