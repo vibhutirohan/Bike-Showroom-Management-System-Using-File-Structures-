@@ -1,9 +1,9 @@
 # 🏍️ Bike Showroom Management System Using File Structures
 
-![Bike Banner](https://images.pexels.com/photos/2765283/pexels-photo-2765283.jpeg?auto=compress&fit=crop&w=1050&q=80)
+<p align="center">
+  <img src="https://media.giphy.com/media/TL6nD4C7D8lIk/giphy.gif" alt="Bike Animation" width="320"/>
+</p>
 
-
----
 
 ## 🚦 Project Overview
 
