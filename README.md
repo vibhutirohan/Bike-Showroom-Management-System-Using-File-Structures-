@@ -1,6 +1,6 @@
 # 🏍️ Bike Showroom Management System Using File Structures
 
-![Bike Banner](https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format&fit=crop&w=1050&q=80)
+![Bike Banner](Photo by vikram sundaramoorthy from Pexels: https://www.pexels.com/photo/sports-bike-rider-in-action-1119796/)
 
 ---
 
@@ -43,10 +43,4 @@ Bike-Showroom-Management-System-Using-File-Structures/
 git clone https://github.com/vibhutirohan/Bike-Showroom-Management-System-Using-File-Structures-.git
 cd Bike-Showroom-Management-System-Using-File-Structures-
 
-2. Compile the project
 
-g++ main.cpp -o bike_showroom
-
-3. Run the application
-
-./bike_showroom
